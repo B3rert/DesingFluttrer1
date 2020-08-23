@@ -1,4 +1,4 @@
-# platzi_trips_app
+# 
 
 A new Flutter application.
 
